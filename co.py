@@ -1,7 +1,7 @@
 #EXAMPLE PROGRAM FOR CLASS AND OBJECT
 class libary:
     def __init__(self):
-        pass
+        print("Program for class and object creation")
      
     def books(name,author,year_establish):
         print("name of the book:",name)
